@@ -1,0 +1,67 @@
+
+Neutral:
+"ikaw bahala"
+"Depende"
+"Kind of"
+"kinda"
+"Nice"
+"none of the above"( *di ko sure eh, sensya na*)
+"Hindi ko sure"
+"Di ko sure"
+"Saktuhan lang"
+"medyo"
+"medjo"
+"medj"
+
+
+Negatives:
+
+"Ang kupad"
+"Walang kwenta"
+"Ang bagal"
+"wasak"
+"Parang matanda"
+"Bad vibes"
+"Bastos!!!"
+"Walang respeto"
+"no respect"
+"Di umuubra"
+"hindi ma-asikaso"
+"pabaya"
+"careless"
+"rude"
+"ma-sagwa"
+
+
+Positives:
+
+"opo"
+"Yeah"
+"Yah"
+"yas"
+"sure!"
+"Sure"
+"definetely"
+"G"
+"im down"
+
+Sarcastic:
+"Pakealam"
+"Kwentulok"
+"IDC"
+"Guess what"
+"So what"
+"no one cares"
+
+
+Luzon:
+"Aba! Maganda ang mga tanawin diyan at marami ang mga libangan sa Pulo na iyan!"!
+
+Metro Manila:
+"Ang ingay na kay sarap balik balikan. Ito ay isa sa maunlad na siyudad sa bansang Pilipinas"
+
+Visayas:
+"Ang Pulo kung saan maraming magagandang tanawin at dagat! Ang lugar kung saan masarap na bakasyunan"
+
+Mindanao:
+"Ang lugar ng matatapang at makisig na tao! Ang lugar kung saan na preserba ang kultura ng Islam at Filipino."

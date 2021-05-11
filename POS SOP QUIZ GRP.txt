@@ -1,0 +1,154 @@
+SOP: Multiply
+Pag may Zero May prime
+1 Walang prime prime
+
+SOP: Multiplication operation 
+if there is a one on each input therefore it will be marked as a prime 
+
+lahat ng may 1 ililista mo kung anong output number
+X=1
+
+POS: Lahat ng wala sa sop lalagay sa POS Naka plus
+
+SOP
+X1 = (0,2,3,5,6,7,8,9)
+X1 = (A'B'C'D') + (A'B'CD) + (A'B'CD') + (ABCD') + (AB'CD') + (AB'CD) + (AB'C'D) + (AB'C'D')
+
+POS
+X1 = (1,4)
+X1 = (A'+B'+C'+D)(A'+B+C+D')
+
+
+SOP
+X2 = (0,1,2,3,4,7,8,9)
+X2=(A'B'C'D') + (A’B’C’D) + (A’B’CD)+(A’B’CD’)+(A’BCD’)+(AB’CD)+(AB’C’D)+(AB’CD’)
+
+POS
+X2 =(5,6)
+X2= (A+B+C+D’)(A+B’+C+D’)
+
+
+SOP
+X3=(0,1,3,4,5,6,7,8,9)
+X3=(A’B’C’D’)+(A’B’C’D)+(A’B’CD’)+(A’BCD’)+(ABCD’)+(AB’CD’)+(AB’CD)+(AB’C’D)+(AB’CD’)
+
+POS
+X3=(2)
+X3=(A’+B’+C+D)
+
+SOP
+X4=(0,2,3,5,6,8,9)
+X4=(A’B’C’D’)+(A’B’CD)+(A’B’CD)+(ABCD’)+(AB’CD’)+(AB’C’D)+(AB’CD’)
+
+POS (1,4,7)
+X4=(A’+B’+C’+D) (A’+B+C+D’) (A+B’+C+D)
+
+
+SOP
+X5= (0,2,6,8)
+X5=(A’B’C’D’)+(A’B’CD)+(AB’CD’)+(AB’C’D)
+
+POS
+X5=(1,3,4,5,7,9)
+X5=(A’+B’+C’+D)(A’+B’+C+D’)(A’+B+C+D’)(A+B+C+D’)(A+B’+C+D)(A+B’+C+D’)
+
+
+
+SOP
+X6=(0,4,5,6,8,9)
+X6=(A’B’C’D’)+(A’BCD’)+(ABCD’)+(AB’CD’)+(AB’C’D)+(AB’CD’)
+
+POS
+X6=(1,2,3,7)
+X6=(A’+B’+C’+D)(A’+B’+C+D)(A’+B’+C+D’)(A+B’+C+D)
+
+SOP 
+X7=(2,3,4,5,6,8,9)
+X7=(A’B’CD)+(A’B’CD’)+(A’BCD’)+(ABCD’)+(AB’CD’)+(AB’C’D)+(AB’CD’)
+
+POS
+X7=(0,1,7)
+X7=(A’+B’+C’+D’)(A’+B’+C’+D)(A+B’+C+D)
+
+
+
+
+
+K-mapping method
+
+Order of binary
+
+Minterms Are sum of products
+
+SOP: Multiplied with each other 
+
+MAXTERM :Product of Sum
+POS
+
+ADDED TO EACH OTHER:
+
+
+
+IN THE TRUTH TABLE THAT WE HAVE MADE ABOVE
+WE HAVE ALREADY CONVERTED THE BINARY INPUTS OF THE GRAY CODE DIGITS
+INTO TERMS.
+
+EACH SEGMENTS OF THE 7 SEGMENT DISPLAY WILL BE EVALUATED 
+
+FOR THE 1ST SEGMENT X SUB 1 WE OBTAINED ALL THE TRUE VALUE ALL THE ONE VALUES
+
+FOR THIS EXAMPLE WE OBTAINED THE BINARY INPUTS OF 0 3 2 8 9 6 7 5 BECAUSE 
+THEY ARE THE ONLY TRUE OR HIGH INPUTS
+
+WE HAVE CONCLUDED IN THIS TERMS
+
+SO WE SUBSTITUTED THE EQUIVALENT TERMS OF EACH INPUT
+
+SINCE THIS IS SUM OF PRODUCTS THEREFORE ITS OPERATION WOULD BE ADDITION
+
+ON THE OTHER HAND
+TO GET THE EXPANDED FORM OF PRODUCT OF SUM WE OBTAINED ALL THE ZEROES AND THIS 
+ARE THE 
+INPUTS OF 1 AND 4
+WE OBTAINED THE FALSE INPUTS OF THE FIRST SEGMENT X SUB 1
+
+WE DIDNT INCLUDE THE DONT CARE TERMS BECAUSE THEY ARE DONT CARE TERMS
+
+SO WE HAVE CONCLUDED WITH TERMS
+
+THE TERMS ARE THE SUM AND 
+
+THEY WILL BE MULTIPLIED
+
+THE SAME GOES FOR THE line segments BELOW.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

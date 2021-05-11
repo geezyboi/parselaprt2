@@ -1,0 +1,61 @@
+
+Neutral:
+"ikaw bahala"
+"Depende"
+"Kind of"
+"kinda"
+"Nice"
+"none of the above"( *di ko sure eh, sensya na*)
+"Hindi ko sure"
+"Di ko sure"
+"Saktuhan lang"
+"medyo"
+"medjo"
+"medj"
+
+
+Negatives:
+
+"Ang kupad"
+"Walang kwenta"
+"Ang bagal"
+"wasak"
+"Parang matanda"
+"Bad vibes"
+"Bastos!!!"
+"Walang respeto"
+"no respect"
+"Di umuubra"
+"hindi ma-asikaso"
+"pabaya"
+"careless"
+"rude"
+"ma-sagwa"
+
+
+Positives:
+
+"opo"
+"Yeah"
+"Yah"
+"yas"
+"sure!"
+"Sure"
+"definetely"
+"G"
+"im down"
+
+Sarcastic:
+"Pakealam"
+"Kwentulok"
+"IDC"
+"Guess what"
+"So what"
+"no one cares"
+
+
+Luzon:
+
+Visayas:
+
+Mindanao:

@@ -1,0 +1,53 @@
+1.1.1 Sample Problems (Simple Interest)
+     https://docs.google.com/presentation/d/e/2PACX-1vSSCLO9QStj5bytnN93e4YDZk8OnwQUPdxo9Pa-2MeRPbEWB9q2_lKR7DZFDqP6yA/embed?
+
+2.1.1 Sample Problems (Rate of Interest)
+     https://docs.google.com/presentation/d/e/2PACX-1vTHXl3brZT3uCtN-vHznA8D3lBGLipGW6SHPoBmoJR3tp3ruTk44z_PrHn6_XQRdg/embed?
+
+2.2.1 Sample Problems (Compound Interest)
+     https://docs.google.com/presentation/d/e/2PACX-1vQsqzM2xX-a8Bn-u5pHgAyGrA5FDYLjH2c2eUpvD-2alj5k4JpolLqlG-8PN9Oc3A/embed?
+
+3.2 Ordinary Annuity
+     https://docs.google.com/presentation/d/e/2PACX-1vRSF--rG5tXFq1D2sXaV6C-9CiqtgGfnSKnTjXOcX6WDs19n6hDkrogAEwceACwhQ/embed?
+
+3.2.1 Sample Problems for Ordinary Annuity
+     https://docs.google.com/presentation/d/e/2PACX-1vRMt87DIh_briiJ-yAPS665qzpjVPU99VGb4f2QeqqCjN5E8nr2wFBCUyjXrZkV_Q/embed?
+
+3.3 Annuity Due
+      https://docs.google.com/presentation/d/e/2PACX-1vRIfxnsfU4ut05c1bEpRlXElr0SICb1NwqPli47PwjMpYNPiwhQiDrKJ7w4vnvetw/embed?
+
+3.3.1 Sample Problems for Annuity Due
+     https://docs.google.com/presentation/d/e/2PACX-1vQl_vJMjX4gr4y9VqXM9nAXaupFFeQKgI7a89Ly1rF5KbO0Bw1WZP-999oTwIwdbQ/embed?
+
+3.4 Deferred Annuity
+     https://docs.google.com/presentation/d/e/2PACX-1vSWPkYpt4Il82rT5AD_N2oZeOFAaAnQ9YGMqFBqcy7J0iepgnTUY2TRCpjI3UtNJQ/embed?
+
+3.4.1 Sample Problems for Deferred Annuity
+     https://docs.google.com/presentation/d/e/2PACX-1vQcVY6qxpPorb_ylEMqXqxKJrmHFB7z-Gawg8B-EnHD6P1J20F2GB2jSWur3-cZ2Q/embed?
+
+3.5 Perpetuity
+     https://docs.google.com/presentation/d/e/2PACX-1vTMgMg_f8ikmw0Bab9igeRjoNqwAkkavY3CpWKwESAgVItDg1z66JSNxxbUq36Oww/embed?
+
+3.5.1 Sample Problem for Perpetuity
+     https://docs.google.com/presentation/d/e/2PACX-1vQZmjLcnDq2GjwOQ1qJt7W3UJaFSSyC2K_k4no5LfFhAADaLG7VZl06alacfPU2Cw/embed?
+
+4.1 Capitalized Cost
+     https://docs.google.com/presentation/d/e/2PACX-1vRB8AMy_BWv3rcckVtuspsWd26y6P8JszLz-XxYhzqhUrUuISsqM-5vp-hLorK9kQ/embed?
+
+4.1.1 Sample Problems for Capitalized Cost
+     https://docs.google.com/presentation/d/e/2PACX-1vT1JJPKxPmkFFyf3ztROArwvZE1EmYob48WsoMGrQlO6LNg9FTNxmy-e-CINX3WTQ/embed?
+
+5.2.1 Sample Problems for Straight Line Method
+     https://docs.google.com/presentation/d/e/2PACX-1vSSnB3Fm-BFou1u1k4Gt1_yfjy67T2Bvccg7EkSuHs4hxNsqgPTcWfgb7hcolAhYg/embed?
+
+5.3.1 Sample Problems for Sinking Fund Method
+     https://docs.google.com/presentation/d/e/2PACX-1vTZ4acpTfz3dy7YJ6sqiHrp384ooy4JGb0Vm4omKgHTZFlPU5YrPHeOys1HAVm_YA/embed?
+
+6.1.1 Sample Problems for Sum-of-the-Years Digit Method
+     https://docs.google.com/presentation/d/e/2PACX-1vT9lteEBdfW5QyrInFcagniPO53X2iQx-GRiLtQi60ZxHA7Sa53W2X0YBuFU8u90A/embed?
+
+6.2 Declining Balance Method
+     https://docs.google.com/presentation/d/e/2PACX-1vR3f_b53fYz9Q297AMiXLZfiGSmMsWpYwvbSF6YZTPT58RV84HaahrOQ87yQ5k1bQ/embed?
+
+6.2.1 Sample Problems for Declining Balance Method
+     https://docs.google.com/presentation/d/e/2PACX-1vSwLQiXOoAksunVN6tA0phDTfBkQjxI96fB7l8AW-6UltyTLIk1QEMifIUhg6oGCA/embed?
