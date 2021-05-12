@@ -1,8 +1,8 @@
 from textblob import TextBlob
 print("Hi! ako si CSRP Anong pangalan mo? ")
 ed = input()
-k = TextBlob("How are you " + ed + "?" + "Are you here to complain about your recent parcel?")
-t=k.translate(to='tl')
+k = TextBlob("Kamusta ka " + ed + "?" + "Nandito ka ba para mag reklamo para iyong parsela?")
+t=k.translate(to='en')
 print(t)
 u= input()
 p=TextBlob("What Company/Courier catered your parcel?") 
